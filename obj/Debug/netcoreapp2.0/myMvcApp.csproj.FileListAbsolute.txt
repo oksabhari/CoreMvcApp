@@ -1,0 +1,11 @@
+C:\UpSkills\core\myMvcApp\bin\Debug\netcoreapp2.0\myMvcApp.deps.json
+C:\UpSkills\core\myMvcApp\bin\Debug\netcoreapp2.0\myMvcApp.runtimeconfig.json
+C:\UpSkills\core\myMvcApp\bin\Debug\netcoreapp2.0\myMvcApp.runtimeconfig.dev.json
+C:\UpSkills\core\myMvcApp\bin\Debug\netcoreapp2.0\myMvcApp.dll
+C:\UpSkills\core\myMvcApp\bin\Debug\netcoreapp2.0\myMvcApp.pdb
+C:\UpSkills\core\myMvcApp\obj\Debug\netcoreapp2.0\myMvcApp.csprojResolveAssemblyReference.cache
+C:\UpSkills\core\myMvcApp\obj\Debug\netcoreapp2.0\myMvcApp.csproj.CoreCompileInputs.cache
+C:\UpSkills\core\myMvcApp\obj\Debug\netcoreapp2.0\myMvcApp.AssemblyInfoInputs.cache
+C:\UpSkills\core\myMvcApp\obj\Debug\netcoreapp2.0\myMvcApp.AssemblyInfo.cs
+C:\UpSkills\core\myMvcApp\obj\Debug\netcoreapp2.0\myMvcApp.dll
+C:\UpSkills\core\myMvcApp\obj\Debug\netcoreapp2.0\myMvcApp.pdb
